@@ -1,4 +1,4 @@
-## Restart
+# Restart
 
 <div align="center">
 
